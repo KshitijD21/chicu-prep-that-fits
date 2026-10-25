@@ -1,0 +1,1 @@
+Um, I built a practice scheduling tool for a class project. Uh, our group kept missing available study times. I wrote the overlap check and added tests. I asked two classmates to try it, and they found a conflict I had missed. I fixed that check before our demo. Basically, I learned to test overlapping events early. I like building tools people can try.
