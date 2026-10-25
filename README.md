@@ -53,6 +53,7 @@ Counts come from the transcript: words, filler words, repeated openings, and the
 
 ## Run the scripts locally
 
+
 Python 3.9+ and the standard library are enough.
 
 ```bash
